@@ -1,0 +1,5 @@
+python-dotenv
+gtts
+streamlit
+google-generativeai
+pygame
